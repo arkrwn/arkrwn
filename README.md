@@ -1,80 +1,77 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="arkrwn — security engineering lead" width="100%" />
+  <img src="./assets/banner.png" alt="ARKRWN — security enthusiast" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/arkrwn?tab=followers"><img src="https://img.shields.io/github/followers/arkrwn?style=flat-square&label=followers&color=5B8CFF&labelColor=0B1020" alt="followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=arkrwn&label=visitors&color=38E1C6&style=flat-square" alt="visitors" />
+  <img src="https://img.shields.io/badge/open%20to-collaboration-6FE7D2?style=flat-square&labelColor=0B1020" alt="open to collaboration" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/arkrwn?tab=followers"><img src="https://img.shields.io/github/followers/arkrwn?style=flat-square&label=followers&color=FFB7D5&labelColor=2B2140" alt="followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=arkrwn&label=visitors&color=C8A2FF&style=flat-square" alt="visitors" />
-  <img src="https://img.shields.io/badge/open%20to-collaboration-7CD9C9?style=flat-square&labelColor=2B2140" alt="open to collaboration" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=8E6BE8&center=true&vCenter=true&width=760&lines=breaking+things+on+purpose%2C+then+fixing+them+properly;devsecops+%2B+offensive+security+since+2011;building+small+tools+so+security+is+less+annoying" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=8FB4FF&center=true&vCenter=true&width=760&lines=breaking+things+on+purpose%2C+then+fixing+them+properly;devsecops+%2B+offensive+security+since+2011;still+learning%2C+still+shipping+small+tools" alt="typing banner" />
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
-
-### 🌷 a tiny intro
-
-I'm a **Security Engineering Lead** who has been poking at systems since 2011 — professionally in sysadmin & security engineering since 2015, and now living in the space between *shipping fast* and *sleeping well at night*.
-
-I write scripts to make my own life easier, then turn them into tools other people can use. Most of my work happens in terminals, on Linux, around CI pipelines and whatever is on fire that week.
-
-- 🔭 currently — devsecops, security management, and a lot of code review
-- 🧪 tinkering with — Rust, Python, Go, and small offensive tooling
-- 🎓 CEH Master (ANSI + Practical) · AWS Academy Cloud Foundations
-- 🫶 community — IDFA member since 2015 · ID-LUG Jakarta 2014–2017
-- ☕ fuel — black coffee and unreasonably long `git log` sessions
-
+<td width="52%" valign="top">
+  <img src="./assets/terminal.svg" width="100%" alt="terminal with my current focus" />
 </td>
-<td width="42%" align="center">
-  <img src="./assets/mascot.svg" width="300" alt="a cute cat typing on a laptop" />
+<td width="48%" valign="top">
+
+<pre><code class="language-rust">let arkrwn = Profile {
+    code: ["Rust", "Python", "Go", "Bash"],
+    tools: ["Docker", "K8s", "Nginx", "Burp", "Nuclei"],
+    focus: ["devsecops", "offensive security", "linux"],
+    fuel: "black tea",
+    status: "still learning",
+};
+
+// break things carefully, then write it down.</code></pre>
+
 </td>
 </tr>
 </table>
 
 ---
 
-### 🧰 toolbox
+### 🧠 A Tiny Intro
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,go,rust,docker,kubernetes,git,githubactions,nginx,postgres,aws,gcp,vim&theme=light&perline=7" alt="tools I use" />
-</p>
+I'm a **security enthusiast** who has been poking at systems since 2011 — mostly in terminals, mostly on Linux, usually around CI pipelines and whatever is on fire that week. Somewhere along the way that turned into a decade of hands-on work in sysadmin and security engineering, but I still think of it as "learning in public, slowly".
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuclei-00B4D8?style=flat-square" />
-  <img src="https://img.shields.io/badge/Semgrep-1B9E77?style=flat-square" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCI%20DSS-6B4FBB?style=flat-square" />
-</p>
+I like building small tools that make security less annoying: scripts that save an hour, scanners that catch the obvious things, and checklists that keep humans from being the weakest step. Most of it is quiet work — reading logs, reading code, reading documentation nobody else wants to read.
+
+- ⌨️ tinkering with — Rust, Python, Go, and small offensive tooling
+- 🔐 focus — devsecops, code review, pentest & vulnerability assessment
+- 🍵 fuel — black tea, no sugar
+- 🌱 always — one more language, one more book, one more lab
+- 💼 professional details — [linkedin.com/in/arkrwn](https://www.linkedin.com/in/arkrwn/)
 
 ---
 
-### ✨ what I actually do
+### ⚙️ What I Actually Do
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-**🔍 offensive security**
+**🔍 Offensive Security**
 
-penetration testing, vulnerability assessment, exploit validation, and writing PoCs that actually prove the point.
-
-</td>
-<td width="33%" valign="top">
-
-**🛡️ devsecops**
-
-shifting security left without making developers miserable — pipelines, scanners, guardrails, and sane defaults.
+pentest, vulnerability assessment, and proof-of-concepts that show the real impact — not just a scanner screenshot.
 
 </td>
 <td width="33%" valign="top">
 
-**⚙️ engineering**
+**🛡️ DevSecOps**
+
+shifting security left without slowing people down: pipelines, scanners, guardrails, and sane defaults.
+
+</td>
+<td width="33%" valign="top">
+
+**🧱 Engineering**
 
 python & bash tooling, linux administration, code review, and automating the boring parts of security work.
 
@@ -84,21 +81,39 @@ python & bash tooling, linux administration, code review, and automating the bor
 
 ---
 
-### 🌸 a few corners of my workshop
+### 🛠️ Toolbox
 
-| project | what it is | stack |
-|---|---|---|
-| **[mikavt](https://github.com/arkrwn/mikavt)** | a small Rust experiment, growing in public | `rust` |
-| **[Pahawang-Island-Data](https://github.com/arkrwn/Pahawang-Island-Data)** | open data + microsite for Pahawang Island | `html` |
-| **[FullstakFastAPI](https://github.com/arkrwn/FullstakFastAPI)** | FastAPI + admin panel + MongoDB starter | `python` `mongo` |
-| **[geojson2shp](https://github.com/arkrwn/geojson2shp)** | geojson → shapefile converter, kept in sync with upstream | `python` |
-| **arkrwn-scripts** *(private)* | my toolbox: secret scanners, PoC collection, tiny utilities | `python` `bash` |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,go,rust,docker,kubernetes,git,githubactions,nginx,postgres,aws,gcp,vim&theme=light&perline=7" alt="tools I use" />
+</p>
 
-<sub>Most of the good stuff lives in private repos — happy to talk about it over coffee.</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nuclei-00B4D8?style=flat-square" alt="Nuclei" />
+  <img src="https://img.shields.io/badge/Semgrep-1B9E77?style=flat-square" alt="Semgrep" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/PCI%20DSS-6B4FBB?style=flat-square" alt="PCI DSS" />
+</p>
 
 ---
 
-### 📊 the numbers
+### 🛰️ A Few Corners of My Workshop
+
+| Project | What It Is | Stack |
+|---|---|---|
+| **[memoryos](https://github.com/arkrwn/memoryos)** | Rust workspace kept in sync with upstream | `rust` |
+| **[mikavt](https://github.com/arkrwn/mikavt)** | small Rust tool, still growing | `rust` |
+| **[FullstakFastAPI](https://github.com/arkrwn/FullstakFastAPI)** | FastAPI + admin panel + MongoDB starter | `python` `mongo` |
+| **[django-DefectDojo](https://github.com/arkrwn/django-DefectDojo)** | vulnerability management platform, synced with `DefectDojo/django-DefectDojo` | `python` |
+| **arkrwn-scripts** *(private)* | my toolbox: secret scanners, PoC collection, small utilities | `python` `bash` |
+| **ejentiks** *(private)* | private Rust project, in progress | `rust` |
+
+<sub>Some things stay private — happy to talk about them over tea.</sub>
+
+---
+
+### 📈 The Numbers
 
 <p align="center">
   <picture>
@@ -120,7 +135,7 @@ python & bash tooling, linux administration, code review, and automating the bor
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arkrwn&hide_border=true&background=1B1626&ring=FFB7D5&fire=FF9EB5&currStreakLabel=C8A2FF&sideLabels=E9E2F5&dates=9C8EB5" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arkrwn&hide_border=true&background=0B1020&ring=5B8CFF&fire=38E1C6&currStreakLabel=6FE7D2&sideLabels=EAF1FF&dates=7E93B5" />
     <img src="https://streak-stats.demolab.com?user=arkrwn&hide_border=true&background=FFF3F8&ring=E75480&fire=FF9EB5&currStreakLabel=8E6BE8&sideLabels=5A4B72&dates=9C8EB5" alt="streak" />
   </picture>
 </p>
@@ -131,16 +146,12 @@ python & bash tooling, linux administration, code review, and automating the bor
 
 ---
 
-### 📮 say hi
+### 📡 Say Hi
 
 <p align="left">
-  <a href="mailto:hubungi.aja@gmail.com"><img src="https://img.shields.io/badge/email-hubungi.aja%40gmail.com-FFB7D5?style=for-the-badge&labelColor=2B2140" alt="email" /></a>
-  <a href="https://github.com/arkrwn"><img src="https://img.shields.io/badge/github-%40arkrwn-C8A2FF?style=for-the-badge&labelColor=2B2140" alt="github" /></a>
+  <a href="mailto:hubungi.aja@gmail.com"><img src="https://img.shields.io/badge/email-hubungi.aja%40gmail.com-5B8CFF?style=for-the-badge&labelColor=0B1020" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/arkrwn/"><img src="https://img.shields.io/badge/linkedin-arkrwn-38E1C6?style=for-the-badge&labelColor=0B1020" alt="linkedin" /></a>
+  <a href="https://github.com/arkrwn"><img src="https://img.shields.io/badge/github-%40arkrwn-A9C4FF?style=for-the-badge&labelColor=0B1020" alt="github" /></a>
 </p>
 
-If you're working on something around **security tooling, devsecops, or open-source offensive security** — my inbox is open. I answer faster than most scanners.
-
-<div align="center">
-  <img src="./assets/footer.svg" width="100%" alt="" />
-  <sub>made with ☕, too many terminals, and a suspicious amount of pink</sub>
-</div>
+If you're working on **security tooling, devsecops, or open-source offensive security** — my inbox is open. I answer faster than most scanners.

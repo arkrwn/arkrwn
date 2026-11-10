@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="440" viewBox="0 0 540 440" role="img" aria-label="terminal with arkrwn stats">
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="100%" stop-color="#121A33"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5B8CFF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38E1C6" stop-opacity="0.35"/>
+    </linearGradient>
+    <style>
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect width="540" height="440" rx="22" fill="#FFFFFF" fill-opacity="0.04"/>
+  <rect x="1" y="1" width="538" height="438" rx="21" fill="none" stroke="url(#frame)"/>
+
+  <!-- window bar -->
+  <rect x="1" y="1" width="538" height="46" rx="21" fill="#FFFFFF" fill-opacity="0.05"/>
+  <rect x="1" y="25" width="538" height="22" fill="#FFFFFF" fill-opacity="0.05"/>
+  <circle cx="30" cy="24" r="6" fill="#FF6B7A" fill-opacity="0.85"/>
+  <circle cx="52" cy="24" r="6" fill="#FFC46B" fill-opacity="0.85"/>
+  <circle cx="74" cy="24" r="6" fill="#4ED8A6" fill-opacity="0.85"/>
+  <text x="270" y="29" text-anchor="middle" font-family="JetBrains Mono, Menlo, monospace"
+        font-size="12" fill="#7E93B5">arkrwn@github: ~</text>
+
+  <!-- content -->
+  <g font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5">
+    <text x="30" y="86" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> whoami</text>
+    <text x="30" y="112" fill="#EAF1FF">security enthusiast</text>
+    <text x="30" y="132" fill="#7E93B5">builds small tools · breaks things on purpose</text>
+
+    <text x="30" y="170" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> cat focus.txt</text>
+    <text x="30" y="196" fill="#EAF1FF">devsecops · offensive security · linux · pci dss</text>
+
+    <text x="30" y="234" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> ls ~/projects</text>
+    <text x="30" y="260" fill="#A9C4FF">arkrwn-scripts/   memoryos/   mikavt/</text>
+    <text x="30" y="280" fill="#A9C4FF">ejentiks/   FullstakFastAPI/   django-DefectDojo/</text>
+
+    <text x="30" y="318" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> stat --me</text>
+    <text x="30" y="344" fill="#EAF1FF">repos: <tspan fill="#38E1C6">5 public</tspan> · contributions: <tspan fill="#38E1C6">479</tspan> · joined: <tspan fill="#38E1C6">10 yrs</tspan></text>
+
+    <text x="30" y="382" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> echo $FUEL</text>
+    <text x="30" y="408" fill="#EAF1FF">black tea, no sugar <tspan fill="#6FE7D2">✓</tspan></text>
+  </g>
+
+  <rect class="cursor" x="30" y="416" width="10" height="14" fill="#6FE7D2"/>
+</svg>
