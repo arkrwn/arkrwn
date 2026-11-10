@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="ARKRWN — security enthusiast" width="100%" />
+  <img src="./assets/banner.png" alt="ARKRWN - security enthusiast" width="100%" />
 </div>
 
 <br />
@@ -14,40 +14,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8FB4FF&center=true&vCenter=true&width=620&lines=breaking+things+on+purpose%2C+fixing+them+properly;devsecops+%2B+offensive+security+since+2011;still+learning%2C+still+shipping" alt="typing banner" />
 </div>
 
-<table>
-<tr>
-<td width="52%" valign="top">
+<p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="terminal with my current focus" />
-</td>
-<td width="48%" valign="top">
-
-<pre><code class="language-rust">let arkrwn = Profile {
-    code: ["Rust", "Python", "Go", "Bash"],
-    tools: ["Docker", "K8s", "Nginx", "Burp", "Nuclei"],
-    focus: ["devsecops", "offensive security", "linux"],
-    fuel: "black tea",
-    status: "still learning",
-};
-
-// break things carefully, then write it down.</code></pre>
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
 ### 🧠 A Tiny Intro
 
-I'm a **security enthusiast** who has been poking at systems since 2011 — mostly in terminals, mostly on Linux, usually around CI pipelines and whatever is on fire that week. Somewhere along the way that turned into a decade of hands-on work in sysadmin and security engineering, but I still think of it as "learning in public, slowly".
+I'm a **security enthusiast** who has been poking at systems since 2011 - mostly in terminals, mostly on Linux, usually around CI pipelines and whatever is on fire that week. Somewhere along the way that turned into a decade of hands-on work in sysadmin and security engineering, but I still think of it as "learning in public, slowly".
 
-I like building small tools that make security less annoying: scripts that save an hour, scanners that catch the obvious things, and checklists that keep humans from being the weakest step. Most of it is quiet work — reading logs, reading code, reading documentation nobody else wants to read.
+I like building small tools that make security less annoying: scripts that save an hour, scanners that catch the obvious things, and checklists that keep humans from being the weakest step. Most of it is quiet work - reading logs, reading code, reading documentation nobody else wants to read.
 
-- ⌨️ tinkering with — Rust, Python, Go, and small offensive tooling
-- 🔐 focus — devsecops, code review, pentest & vulnerability assessment
-- 🍵 fuel — black tea, no sugar
-- 🌱 always — one more language, one more book, one more lab
-- 💼 professional details — [linkedin.com/in/arkrwn](https://www.linkedin.com/in/arkrwn/)
+- ⌨️ Tinkering with - Rust, Python, Go, and Cybersecurity Tools
+- 🔐 Focus - DevSecOps, CyberSecurity Architecture, Code Review, Pentest & Vulnerability Assessment, Agentic Tooling
+- 🍵 Fuel - Black tea, no sugar
+- 🌱 Always - One more language, one more book, one more lab
+- 💼 Professional Details - [linkedin.com/in/arkrwn](https://www.linkedin.com/in/arkrwn/)
 
 ---
 
@@ -59,7 +42,7 @@ I like building small tools that make security less annoying: scripts that save 
 
 **🔍 Offensive Security**
 
-pentest, vulnerability assessment, and proof-of-concepts that show the real impact — not just a scanner screenshot.
+pentest, vulnerability assessment, and proof-of-concepts that show the real impact - not just a scanner screenshot.
 
 </td>
 <td width="33%" valign="top">
@@ -109,7 +92,7 @@ python & bash tooling, linux administration, code review, and automating the bor
 | **arkrwn-scripts** *(private)* | my toolbox: secret scanners, PoC collection, small utilities | `python` `bash` |
 | **ejentiks** *(private)* | private Rust project, in progress | `rust` |
 
-<sub>Some things stay private — happy to talk about them over tea.</sub>
+<sub>Some things stay private - happy to talk about them over tea.</sub>
 
 ---
 
@@ -147,4 +130,4 @@ python & bash tooling, linux administration, code review, and automating the bor
   <a href="https://github.com/arkrwn"><img src="https://img.shields.io/badge/github-%40arkrwn-A9C4FF?style=for-the-badge&labelColor=0B1020" alt="github" /></a>
 </p>
 
-If you're working on **security tooling, devsecops, or open-source offensive security** — my inbox is open. I answer faster than most scanners.
+If you're working on **security tooling, devsecops, or open-source offensive security** - my inbox is open. I answer faster than most scanners.
