@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1400&color=8FB4FF&center=true&vCenter=true&width=760&lines=breaking+things+on+purpose%2C+then+fixing+them+properly;devsecops+%2B+offensive+security+since+2011;still+learning%2C+still+shipping+small+tools" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8FB4FF&center=true&vCenter=true&width=620&lines=breaking+things+on+purpose%2C+fixing+them+properly;devsecops+%2B+offensive+security+since+2011;still+learning%2C+still+shipping" alt="typing banner" />
 </div>
 
 <table>
@@ -114,13 +114,6 @@ python & bash tooling, linux administration, code review, and automating the bor
 ---
 
 ### 📈 The Numbers
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkrwn&theme=github_dark" />
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkrwn&theme=default" alt="profile summary" />
-  </picture>
-</p>
 
 <p align="center">
   <picture>
