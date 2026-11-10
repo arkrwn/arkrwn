@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Arkwrn — Security Engineering Lead">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF3F8"/>
+      <stop offset="45%" stop-color="#F4F0FF"/>
+      <stop offset="100%" stop-color="#EAF7FF"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E75480"/>
+      <stop offset="55%" stop-color="#8E6BE8"/>
+      <stop offset="100%" stop-color="#35B6A6"/>
+    </linearGradient>
+    <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFC2DA" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#FFC2DA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C9B6FF" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#C9B6FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A8F0E4" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#A8F0E4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="280" rx="34" fill="url(#bg)"/>
+  <circle cx="1050" cy="40" r="190" fill="url(#blob1)"/>
+  <circle cx="150" cy="250" r="210" fill="url(#blob2)"/>
+  <circle cx="905" cy="255" r="150" fill="url(#blob3)"/>
+
+
+  <g fill="#8E6BE8" fill-opacity="0.55">
+    <circle cx="112" cy="86" r="4"/>
+    <circle cx="180" cy="58" r="3"/>
+    <circle cx="1035" cy="196" r="4"/>
+    <circle cx="1102" cy="150" r="3"/>
+  </g>
+  <g fill="#FFB7D5">
+    <path d="M980 74 l6 14 14 6 -14 6 -6 14 -6 -14 -14 -6 14 -6z"/>
+    <path d="M212 168 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z"/>
+  </g>
+  <g fill="#7CD9C9">
+    <path d="M1090 92 l3 8 8 3 -8 3 -3 8 -3 -8 -8 -3 8 -3z"/>
+  </g>
+
+  <text x="88" y="128" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="72" font-weight="800" letter-spacing="-1.5" fill="url(#name)">arkwrn</text>
+  <text x="90" y="172" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="24" font-weight="600" fill="#5A4B72" opacity="0.9">security engineering lead</text>
+  <text x="90" y="208" font-family="Inter, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="19" font-weight="500" fill="#7A6A90" opacity="0.85">devsecops · offensive security · linux · pci dss</text>
+
+  <g transform="translate(90, 236)">
+    <rect x="0" y="0" width="150" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.75"/>
+    <text x="75" y="20" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif"
+          font-size="13" font-weight="600" fill="#E75480">since 2011</text>
+    <rect x="164" y="0" width="176" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.75"/>
+    <text x="252" y="20" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif"
+          font-size="13" font-weight="600" fill="#8E6BE8">CEH master</text>
+    <rect x="354" y="0" width="196" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.75"/>
+    <text x="452" y="20" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif"
+          font-size="13" font-weight="600" fill="#2F9E8F">open-source builder</text>
+  </g>
+
+  <g transform="translate(960, 60)">
+    <ellipse cx="60" cy="70" rx="52" ry="50" fill="#FFFFFF" fill-opacity="0.55"/>
+    <path d="M30 34 l10 -22 16 14z" fill="#FFC2DA"/>
+    <path d="M90 34 l-10 -22 -16 14z" fill="#FFC2DA"/>
+    <circle cx="42" cy="62" r="5" fill="#5A4B72"/>
+    <circle cx="78" cy="62" r="5" fill="#5A4B72"/>
+    <path d="M52 82 q8 8 16 0" stroke="#5A4B72" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+    <circle cx="30" cy="74" r="6" fill="#FFB7D5" fill-opacity="0.6"/>
+    <circle cx="90" cy="74" r="6" fill="#FFB7D5" fill-opacity="0.6"/>
+  </g>
+</svg>
