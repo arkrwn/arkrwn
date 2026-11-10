@@ -101,8 +101,12 @@ python & bash tooling, linux administration, code review, and automating the bor
 ### 📊 the numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arkrwn&show_icons=true&hide_border=true&bg_color=FFF3F8&title_color=E75480&text_color=5A4B72&icon_color=C8A2FF&include_all_commits=true&count_private=true" alt="github stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkrwn&layout=compact&hide_border=true&bg_color=FFF3F8&title_color=E75480&text_color=5A4B72&langs_count=6" alt="top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkrwn&theme=default" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkrwn&theme=default" alt="top languages by commit" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arkrwn&theme=default" alt="languages by repo" />
 </p>
 
 <p align="center">
