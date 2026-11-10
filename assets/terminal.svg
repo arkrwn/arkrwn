@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="440" viewBox="0 0 540 440" role="img" aria-label="terminal with arkrwn stats">
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="380" viewBox="0 0 540 380" role="img" aria-label="terminal with arkrwn stats">
   <defs>
     <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B1020"/>
@@ -15,7 +15,7 @@
   </defs>
 
   <rect width="540" height="440" rx="22" fill="#FFFFFF" fill-opacity="0.04"/>
-  <rect x="1" y="1" width="538" height="438" rx="21" fill="none" stroke="url(#frame)"/>
+  <rect x="1" y="1" width="538" height="378" rx="21" fill="none" stroke="url(#frame)"/>
 
   <!-- window bar -->
   <rect x="1" y="1" width="538" height="46" rx="21" fill="#FFFFFF" fill-opacity="0.05"/>
@@ -39,12 +39,9 @@
     <text x="30" y="260" fill="#A9C4FF">arkrwn-scripts/   memoryos/   mikavt/</text>
     <text x="30" y="280" fill="#A9C4FF">ejentiks/   FullstakFastAPI/   django-DefectDojo/</text>
 
-    <text x="30" y="318" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> stat --me</text>
-    <text x="30" y="344" fill="#EAF1FF">repos: <tspan fill="#38E1C6">5 public</tspan> · contributions: <tspan fill="#38E1C6">479</tspan> · joined: <tspan fill="#38E1C6">10 yrs</tspan></text>
-
-    <text x="30" y="382" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> echo $FUEL</text>
-    <text x="30" y="408" fill="#EAF1FF">black tea, no sugar <tspan fill="#6FE7D2">✓</tspan></text>
+    <text x="30" y="318" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> echo $FUEL</text>
+    <text x="30" y="344" fill="#EAF1FF">black tea, no sugar <tspan fill="#6FE7D2">✓</tspan></text>
   </g>
 
-  <rect class="cursor" x="30" y="416" width="10" height="14" fill="#6FE7D2"/>
+  <rect class="cursor" x="30" y="352" width="10" height="14" fill="#6FE7D2"/>
 </svg>

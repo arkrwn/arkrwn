@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8FB4FF&center=true&vCenter=true&width=620&lines=breaking+things+on+purpose%2C+fixing+them+properly;devsecops+%2B+offensive+security+since+2011;still+learning%2C+still+shipping" alt="typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8FB4FF&center=true&vCenter=true&width=520&lines=breaking+things+on+purpose;devsecops+%2B+offensive+security;still+learning%2C+still+shipping" alt="typing banner" />
 </div>
 
 <p align="center">
@@ -99,6 +99,10 @@ python & bash tooling, linux administration, code review, and automating the bor
 ### 📈 The Numbers
 
 <p align="center">
+  <img src="./assets/stats.svg" width="100%" alt="total contributions, current and longest streak" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkrwn&theme=github_dark" />
     <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkrwn&theme=default" alt="top languages by commit" />
@@ -107,10 +111,6 @@ python & bash tooling, linux administration, code review, and automating the bor
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arkrwn&theme=github_dark" />
     <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arkrwn&theme=default" alt="languages by repo" />
   </picture>
-</p>
-
-<p align="center">
-  <img src="./assets/stats.svg" width="100%" alt="total contributions, current and longest streak" />
 </p>
 
 <p align="center">
