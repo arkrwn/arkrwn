@@ -101,16 +101,28 @@ python & bash tooling, linux administration, code review, and automating the bor
 ### 📊 the numbers
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkrwn&theme=default" alt="profile summary" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkrwn&theme=github_dark" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkrwn&theme=default" alt="profile summary" />
+  </picture>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkrwn&theme=default" alt="top languages by commit" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arkrwn&theme=default" alt="languages by repo" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkrwn&theme=github_dark" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkrwn&theme=default" alt="top languages by commit" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arkrwn&theme=github_dark" />
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arkrwn&theme=default" alt="languages by repo" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=arkrwn&hide_border=true&background=FFF3F8&ring=E75480&fire=FF9EB5&currStreakLabel=8E6BE8&sideLabels=5A4B72&dates=9C8EB5" alt="streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arkrwn&hide_border=true&background=1B1626&ring=FFB7D5&fire=FF9EB5&currStreakLabel=C8A2FF&sideLabels=E9E2F5&dates=9C8EB5" />
+    <img src="https://streak-stats.demolab.com?user=arkrwn&hide_border=true&background=FFF3F8&ring=E75480&fire=FF9EB5&currStreakLabel=8E6BE8&sideLabels=5A4B72&dates=9C8EB5" alt="streak" />
+  </picture>
 </p>
 
 <p align="center">
