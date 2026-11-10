@@ -110,10 +110,7 @@ python & bash tooling, linux administration, code review, and automating the bor
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=arkrwn&hide_border=true&background=0B1020&ring=5B8CFF&fire=38E1C6&currStreakLabel=6FE7D2&sideLabels=EAF1FF&dates=7E93B5" />
-    <img src="https://streak-stats.demolab.com?user=arkrwn&hide_border=true&background=FFF3F8&ring=E75480&fire=FF9EB5&currStreakLabel=8E6BE8&sideLabels=5A4B72&dates=9C8EB5" alt="streak" />
-  </picture>
+  <img src="./assets/stats.svg" width="100%" alt="total contributions, current and longest streak" />
 </p>
 
 <p align="center">
