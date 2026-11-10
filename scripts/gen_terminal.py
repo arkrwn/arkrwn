@@ -12,6 +12,8 @@ LINE = 25
 FONT = 14.5
 MONO = "JetBrains Mono, Menlo, Consolas, monospace"
 CHARS = 92  # karakter per baris pada lebar ini
+CHAR_W = FONT * 0.6
+VALUE_X = 210  # kolom value, diberi jarak dari label terpanjang
 
 ABOUT = (
     "I'm a security enthusiast who has been poking at systems since 2011 - mostly in terminals, "
@@ -55,12 +57,16 @@ def main() -> None:
         rows.append(("body", line, "#C7D6EC"))
     rows.append(("gap", "", ""))
 
-    rows.append(("prompt", "cat focus.txt", ""))
+    # tabel rapi seperti `column -t -s'|' focus.txt`
+    rows.append(("prompt", "column -t -s'|' focus.txt", ""))
+    label_w = max(len(l) for l, _ in FOCUS)
+    value_w = 68
+    rows.append(("kvi", "FIELD\x00VALUE", "#6F87AC"))
     for label, value in FOCUS:
-        chunks = wrap(f"{label} - {value}", CHARS)
-        rows.append(("body", chunks[0], "#DCE8F8"))
+        chunks = wrap(value, value_w)
+        rows.append(("kvi", f"{label}\x00{chunks[0]}", "#DCE8F8"))
         for extra in chunks[1:]:
-            rows.append(("cont", extra, "#DCE8F8"))
+            rows.append(("kvi", f"\x00{extra}", "#DCE8F8"))
 
     height = 78 + len(rows) * LINE + 46
     body = []
@@ -69,9 +75,30 @@ def main() -> None:
         if kind == "gap":
             y += LINE
             continue
+        if kind == "kvi":
+            label, value = text.split("\x00", 1)
+            if label:
+                body.append(
+                    f'    <text x="{PAD}" y="{y}" font-family="{MONO}" font-size="{FONT}" '
+                    f'fill="{color}">{esc(label)}</text>'
+                )
+            if value:
+                body.append(
+                    f'    <text x="{VALUE_X}" y="{y}" font-family="{MONO}" font-size="{FONT}" '
+                    f'fill="{color}">{esc(value)}</text>'
+                )
+            y += LINE
+            continue
+        if kind == "head":
+            body.append(
+                f'    <text x="{PAD}" y="{y}" font-family="{MONO}" font-size="{FONT}" '
+                f'fill="#6F87AC">{esc(text)}</text>'
+            )
+            y += LINE
+            continue
         if kind == "cont":
             body.append(
-                f'    <text x="{PAD + 18}" y="{y}" font-family="{MONO}" font-size="{FONT}" '
+                f'    <text x="{PAD}" y="{y}" font-family="{MONO}" font-size="{FONT}" '
                 f'fill="{color}">{esc(text)}</text>'
             )
             y += LINE

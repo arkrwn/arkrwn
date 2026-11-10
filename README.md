@@ -5,9 +5,9 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/arkrwn?tab=followers"><img src="https://img.shields.io/github/followers/arkrwn?style=flat-square&label=followers&color=5B8CFF&labelColor=0B1020" alt="followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=arkrwn&label=visitors&color=38E1C6&style=flat-square" alt="visitors" />
-  <img src="https://img.shields.io/badge/open%20to-collaboration-6FE7D2?style=flat-square&labelColor=0B1020" alt="open to collaboration" />
+  <a href="https://github.com/arkrwn?tab=followers"><img height="28" src="https://img.shields.io/github/followers/arkrwn?style=for-the-badge&label=followers&color=5B8CFF&labelColor=0B1020&logo=github&logoColor=white" alt="followers" /></a>
+  <img height="28" src="https://komarev.com/ghpvc/?username=arkrwn&label=visitors&color=38E1C6&style=for-the-badge" alt="visitors" />
+  <img height="28" src="https://img.shields.io/badge/open%20to-collaboration-6FE7D2?style=for-the-badge&labelColor=0B1020" alt="open to collaboration" />
 </div>
 
 
@@ -26,21 +26,28 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **🔍 Offensive Security**
 
 pentest, vulnerability assessment, and proof-of-concepts that show the real impact - not just a scanner screenshot.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **🛡️ DevSecOps**
 
 shifting security left without slowing people down: pipelines, scanners, guardrails, and sane defaults.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
+
+**🏛️ Cybersecurity Architect**
+
+security architecture and threat modeling - controls that scale with the product, not against it.
+
+</td>
+<td width="25%" valign="top">
 
 **🧱 Engineering**
 

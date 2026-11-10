@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="940" height="624" viewBox="0 0 940 624" role="img" aria-label="terminal with arkrwn's intro">
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="649" viewBox="0 0 940 649" role="img" aria-label="terminal with arkrwn's intro">
   <defs>
     <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B1020"/>
@@ -14,8 +14,8 @@
     </style>
   </defs>
 
-  <rect width="940" height="624" rx="22" fill="#FFFFFF" fill-opacity="0.04"/>
-  <rect x="1" y="1" width="938" height="622" rx="21" fill="none" stroke="url(#frame)"/>
+  <rect width="940" height="649" rx="22" fill="#FFFFFF" fill-opacity="0.04"/>
+  <rect x="1" y="1" width="938" height="647" rx="21" fill="none" stroke="url(#frame)"/>
 
   <rect x="1" y="1" width="938" height="46" rx="21" fill="#FFFFFF" fill-opacity="0.05"/>
   <rect x="1" y="25" width="938" height="22" fill="#FFFFFF" fill-opacity="0.05"/>
@@ -36,12 +36,18 @@
     <text x="34" y="342" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">scanners that catch the obvious things, and checklists that keep humans from being the</text>
     <text x="34" y="367" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">weakest step. Most of it is quiet work - reading logs, reading code, reading documentation</text>
     <text x="34" y="392" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">nobody else wants to read.</text>
-    <text x="34" y="442" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> <tspan fill="#EAF1FF">cat focus.txt</tspan></text>
-    <text x="34" y="467" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Tinkering with - Rust, Python, Go, and Cybersecurity Tools</text>
-    <text x="34" y="492" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Focus - DevSecOps, CyberSecurity Architecture, Code Review, Pentest &amp; Vulnerability</text>
-    <text x="52" y="517" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Assessment, Agentic Tooling</text>
-    <text x="34" y="542" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Fuel - Black tea, no sugar</text>
-    <text x="34" y="567" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Always - One more language, one more book, one more lab</text>
+    <text x="34" y="442" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> <tspan fill="#EAF1FF">column -t -s'|' focus.txt</tspan></text>
+    <text x="34" y="467" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#6F87AC">FIELD</text>
+    <text x="210" y="467" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#6F87AC">VALUE</text>
+    <text x="34" y="492" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Tinkering with</text>
+    <text x="210" y="492" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Rust, Python, Go, and Cybersecurity Tools</text>
+    <text x="34" y="517" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Focus</text>
+    <text x="210" y="517" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">DevSecOps, CyberSecurity Architecture, Code Review, Pentest &amp;</text>
+    <text x="210" y="542" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Vulnerability Assessment, Agentic Tooling</text>
+    <text x="34" y="567" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Fuel</text>
+    <text x="210" y="567" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Black tea, no sugar</text>
+    <text x="34" y="592" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Always</text>
+    <text x="210" y="592" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">One more language, one more book, one more lab</text>
 
-  <rect class="cursor" x="34" y="572" width="9" height="14" fill="#6FE7D2"/>
+  <rect class="cursor" x="34" y="597" width="9" height="14" fill="#6FE7D2"/>
 </svg>
