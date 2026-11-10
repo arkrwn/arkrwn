@@ -29,8 +29,8 @@
   <!-- content -->
   <g font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5">
     <text x="30" y="86" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> whoami</text>
-    <text x="30" y="112" fill="#EAF1FF">security enthusiast</text>
-    <text x="30" y="132" fill="#7E93B5">builds small tools · breaks things on purpose</text>
+    <text x="30" y="112" fill="#EAF1FF">arkrwn</text>
+    <text x="30" y="132" fill="#7E93B5">security enthusiast - builds small tools</text>
 
     <text x="30" y="170" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> cat focus.txt</text>
     <text x="30" y="196" fill="#EAF1FF">devsecops · offensive security · linux · pci dss</text>
