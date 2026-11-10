@@ -14,10 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8FB4FF&center=true&vCenter=true&width=520&lines=breaking+things+on+purpose;devsecops+%2B+offensive+security;still+learning%2C+still+shipping" alt="typing banner" />
 </div>
 
-<p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="terminal with my current focus" />
-</p>
-
 ---
 
 ### 🧠 A Tiny Intro
@@ -31,6 +27,10 @@ I like building small tools that make security less annoying: scripts that save 
 - 🍵 Fuel - Black tea, no sugar
 - 🌱 Always - One more language, one more book, one more lab
 - 💼 Professional Details - [linkedin.com/in/arkrwn](https://www.linkedin.com/in/arkrwn/)
+
+<p align="center">
+  <img src="./assets/terminal.svg" width="520" alt="terminal with my current focus" />
+</p>
 
 ---
 
