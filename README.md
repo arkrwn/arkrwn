@@ -10,9 +10,7 @@
   <img src="https://img.shields.io/badge/open%20to-collaboration-6FE7D2?style=flat-square&labelColor=0B1020" alt="open to collaboration" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1500&color=8FB4FF&center=true&vCenter=true&width=520&lines=breaking+things+on+purpose;devsecops+%2B+offensive+security;still+learning%2C+still+shipping" alt="typing banner" />
-</div>
+
 
 ---
 
