@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="arkwrn — security engineering lead" width="100%" />
+  <img src="./assets/banner.svg" alt="arkrwn — security engineering lead" width="100%" />
 </div>
 
 <div align="center">
@@ -126,7 +126,7 @@ python & bash tooling, linux administration, code review, and automating the bor
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arkrwn/arkwrn/output/snake.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/arkrwn/arkrwn/output/snake.svg" alt="contribution snake" />
 </p>
 
 ---
