@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="ARKRWN - security enthusiast" width="100%" />
+  <img src="./assets/banner.gif" alt="ARKRWN - security enthusiast" width="100%" />
 </div>
 
 <br />
