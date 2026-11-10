@@ -18,18 +18,8 @@
 
 ### 🧠 A Tiny Intro
 
-I'm a **security enthusiast** who has been poking at systems since 2011 - mostly in terminals, mostly on Linux, usually around CI pipelines and whatever is on fire that week. Somewhere along the way that turned into a decade of hands-on work in sysadmin and security engineering, but I still think of it as "learning in public, slowly".
-
-I like building small tools that make security less annoying: scripts that save an hour, scanners that catch the obvious things, and checklists that keep humans from being the weakest step. Most of it is quiet work - reading logs, reading code, reading documentation nobody else wants to read.
-
-- ⌨️ Tinkering with - Rust, Python, Go, and Cybersecurity Tools
-- 🔐 Focus - DevSecOps, CyberSecurity Architecture, Code Review, Pentest & Vulnerability Assessment, Agentic Tooling
-- 🍵 Fuel - Black tea, no sugar
-- 🌱 Always - One more language, one more book, one more lab
-- 💼 Professional Details - [linkedin.com/in/arkrwn](https://www.linkedin.com/in/arkrwn/)
-
 <p align="center">
-  <img src="./assets/terminal.svg" width="520" alt="terminal with my current focus" />
+  <img src="./assets/terminal.svg" width="100%" alt="terminal: whoami, about.txt, focus.txt" />
 </p>
 
 ---

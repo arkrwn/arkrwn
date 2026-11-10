@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="540" height="380" viewBox="0 0 540 380" role="img" aria-label="terminal with arkrwn stats">
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="624" viewBox="0 0 940 624" role="img" aria-label="terminal with arkrwn's intro">
   <defs>
     <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0B1020"/>
@@ -14,34 +14,34 @@
     </style>
   </defs>
 
-  <rect width="540" height="440" rx="22" fill="#FFFFFF" fill-opacity="0.04"/>
-  <rect x="1" y="1" width="538" height="378" rx="21" fill="none" stroke="url(#frame)"/>
+  <rect width="940" height="624" rx="22" fill="#FFFFFF" fill-opacity="0.04"/>
+  <rect x="1" y="1" width="938" height="622" rx="21" fill="none" stroke="url(#frame)"/>
 
-  <!-- window bar -->
-  <rect x="1" y="1" width="538" height="46" rx="21" fill="#FFFFFF" fill-opacity="0.05"/>
-  <rect x="1" y="25" width="538" height="22" fill="#FFFFFF" fill-opacity="0.05"/>
+  <rect x="1" y="1" width="938" height="46" rx="21" fill="#FFFFFF" fill-opacity="0.05"/>
+  <rect x="1" y="25" width="938" height="22" fill="#FFFFFF" fill-opacity="0.05"/>
   <circle cx="30" cy="24" r="6" fill="#FF6B7A" fill-opacity="0.85"/>
   <circle cx="52" cy="24" r="6" fill="#FFC46B" fill-opacity="0.85"/>
   <circle cx="74" cy="24" r="6" fill="#4ED8A6" fill-opacity="0.85"/>
-  <text x="270" y="29" text-anchor="middle" font-family="JetBrains Mono, Menlo, monospace"
-        font-size="12" fill="#7E93B5">arkrwn@github: ~</text>
+  <text x="470.0" y="29" text-anchor="middle" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="12"
+        fill="#7E93B5">arkrwn@github: ~</text>
 
-  <!-- content -->
-  <g font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5">
-    <text x="30" y="86" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> whoami</text>
-    <text x="30" y="112" fill="#EAF1FF">arkrwn</text>
-    <text x="30" y="132" fill="#7E93B5">security enthusiast - builds small tools</text>
+    <text x="34" y="92" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> <tspan fill="#EAF1FF">whoami</tspan></text>
+    <text x="34" y="117" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#EAF1FF">arkrwn</text>
+    <text x="34" y="167" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> <tspan fill="#EAF1FF">cat about.txt</tspan></text>
+    <text x="34" y="192" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">I'm a security enthusiast who has been poking at systems since 2011 - mostly in terminals,</text>
+    <text x="34" y="217" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">mostly on Linux, usually around CI pipelines and whatever is on fire that week. Somewhere</text>
+    <text x="34" y="242" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">along the way that turned into a decade of hands-on work in sysadmin and security</text>
+    <text x="34" y="267" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">engineering, but I still think of it as "learning in public, slowly".</text>
+    <text x="34" y="317" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">I like building small tools that make security less annoying: scripts that save an hour,</text>
+    <text x="34" y="342" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">scanners that catch the obvious things, and checklists that keep humans from being the</text>
+    <text x="34" y="367" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">weakest step. Most of it is quiet work - reading logs, reading code, reading documentation</text>
+    <text x="34" y="392" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#C7D6EC">nobody else wants to read.</text>
+    <text x="34" y="442" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> <tspan fill="#EAF1FF">cat focus.txt</tspan></text>
+    <text x="34" y="467" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Tinkering with - Rust, Python, Go, and Cybersecurity Tools</text>
+    <text x="34" y="492" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Focus - DevSecOps, CyberSecurity Architecture, Code Review, Pentest &amp; Vulnerability</text>
+    <text x="52" y="517" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Assessment, Agentic Tooling</text>
+    <text x="34" y="542" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Fuel - Black tea, no sugar</text>
+    <text x="34" y="567" font-family="JetBrains Mono, Menlo, Consolas, monospace" font-size="14.5" fill="#DCE8F8">Always - One more language, one more book, one more lab</text>
 
-    <text x="30" y="170" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> cat focus.txt</text>
-    <text x="30" y="196" fill="#EAF1FF">devsecops · offensive security · linux · pci dss</text>
-
-    <text x="30" y="234" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> ls ~/projects</text>
-    <text x="30" y="260" fill="#A9C4FF">arkrwn-scripts/   memoryos/   mikavt/</text>
-    <text x="30" y="280" fill="#A9C4FF">ejentiks/   FullstakFastAPI/   django-DefectDojo/</text>
-
-    <text x="30" y="318" fill="#9FB6D9"><tspan fill="#38E1C6">➜</tspan> <tspan fill="#5B8CFF">~</tspan> echo $FUEL</text>
-    <text x="30" y="344" fill="#EAF1FF">black tea, no sugar <tspan fill="#6FE7D2">✓</tspan></text>
-  </g>
-
-  <rect class="cursor" x="30" y="352" width="10" height="14" fill="#6FE7D2"/>
+  <rect class="cursor" x="34" y="572" width="9" height="14" fill="#6FE7D2"/>
 </svg>
